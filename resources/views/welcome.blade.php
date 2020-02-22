@@ -81,7 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+
+                    This is not Sparta - this is Laravel!!
+
                 </div>
 
                 <div class="links">
